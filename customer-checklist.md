@@ -48,13 +48,15 @@ Note: If the customer will be signing production builds instead of giving us the
 * Google Maps API Key: We need a maps API key setup on the new customer end to work with the production signing key which either they will give us or we will generate and give them a sha1 for. For more information, see [https://developers.google.com/maps/documentation/android-sdk/get-api-key\#detailed\_guide](https://developers.google.com/maps/documentation/android-sdk/get-api-key#detailed_guide).
 * Production Signing Certificate: for more information, see [https://developer.android.com/studio/publish/app-signing\#generate-key](https://developer.android.com/studio/publish/app-signing#generate-key).
 * Google Cloud Billing: For more information, see [https://cloud.google.com/billing/docs/](https://cloud.google.com/billing/docs/) .
+* Generate a Firebase project with a product ID. For more information, see [https://firebase.google.com/docs/android/setup\#manually\_add\_firebase](https://firebase.google.com/docs/android/setup#manually_add_firebase).
+* Download a Firebase config file or object. For more information, see [https://support.google.com/firebase/answer/7015592](https://support.google.com/firebase/answer/7015592).
 
 #### 
 
 ## Information Required Solely for iOS Devices
 
 * Descriptions for why we need permissions for:
-  * Always-on and when-in-use location services
-  * Motion & fitness sensor usage
-  * Sending the user notifications
+  * Always-on and when-in-use location services. For more information, see [https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/requesting-permission/](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/requesting-permission/).
+  * Motion & fitness sensor usage. For more information, see [https://developer.apple.com/documentation/healthkit/protecting\_user\_privacy](https://developer.apple.com/documentation/healthkit/protecting_user_privacy).
+  * Sending the user notifications. For more information, see [https://developer.apple.com/documentation/usernotifications/asking\_permission\_to\_use\_notifications](https://developer.apple.com/documentation/usernotifications/asking_permission_to_use_notifications).
 

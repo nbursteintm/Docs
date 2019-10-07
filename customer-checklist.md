@@ -45,8 +45,9 @@ Note: If the customer will be signing production builds instead of giving us the
 
 ## Information Required Solely for Android Devices
 
-* Maps API Key: We need a maps API key setup on the new customer end to work with the production signing key which either they will give us or we will generate and give them a sha1 for.
-
+* Google Maps API Key: We need a maps API key setup on the new customer end to work with the production signing key which either they will give us or we will generate and give them a sha1 for. For more information, see [https://developers.google.com/maps/documentation/android-sdk/get-api-key\#detailed\_guide](https://developers.google.com/maps/documentation/android-sdk/get-api-key#detailed_guide).
+* Production Signing Certificate: for more information, see [https://developer.android.com/studio/publish/app-signing\#generate-key](https://developer.android.com/studio/publish/app-signing#generate-key).
+* 
 #### 
 
 ## Information Required Solely for iOS Devices

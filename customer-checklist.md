@@ -4,7 +4,7 @@ description: Internal checklist of information required for setting up a new pro
 
 # Customer Checklist
 
-The development team requires the following key pieces of information from Product before beginning work on a new customer project. The list below is organized as follows: 
+The development team requires the following key pieces of information from Product before beginning work on a new customer project. The list below is organized as follows:
 
 * Information required for both Android and iOS devices
 * Information required just for Android devices
@@ -22,8 +22,6 @@ The development team requires the following key pieces of information from Produ
 Note: If the customer will be signing production builds instead of giving us the key that's fine, but we need to know what the plan will be.
 {% endhint %}
 
-
-
 * Crashlytics key: If the new customer wants to use Crashlytics, we need a key for this; if not that's fine too
 * Segment Analytics Write Key: This write key could come from the new customer or from our analytics team
 * Staging Endpoint: Only needed if we're doing something custom, otherwise using "[https://api-staging.dev.cens.io](https://api-staging.dev.cens.io/)"
@@ -40,8 +38,6 @@ Note: If the customer will be signing production builds instead of giving us the
 * App Name: The name of the app itself
 * App Shorthand Name: The name of the app as it should display on the launcher screen
 * Program Name: The name of the app as it should be displayed in various in-app popups
-
-#### 
 
 ## Information Required Solely for Android Devices
 

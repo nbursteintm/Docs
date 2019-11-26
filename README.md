@@ -10,6 +10,8 @@ Added text 2019-09-26
 
 Playing in the sandbox 2019-11-04
 
+Testing what happens with template stuff 2019-11-26
+
 {% api-method method="get" host="https://blah.blah.blah" path="" %}
 {% api-method-summary %}
 Testing GitHub and GitBook
